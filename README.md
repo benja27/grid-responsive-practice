@@ -28,9 +28,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books<a name="about-project"></a>
+# 📖 Gallery responsive design<a name="about-project"></a>
 
-**Awesome Books** In this project, I build a basic website that allows users to have a simple to-do list using list structure and webpack.
+**Gallery responsive** in this project I practice responsive design by implementing a gallery and trying to use as less css code as posible to make ir responsive.
 
 ## 🛠 Built With <a name="built-with"></a>
 
